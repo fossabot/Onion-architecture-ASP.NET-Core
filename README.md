@@ -115,6 +115,7 @@ Select project type as API, and select Onion Architecture
 ### Step 4: Project is ready
 
 ![image](docs/img/Step3.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fayslanjohnson%2FOnion-architecture-ASP.NET-Core.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fayslanjohnson%2FOnion-architecture-ASP.NET-Core?ref=badge_shield)
 
 ### Step 5: Configure connection string in appsettings.json
 
@@ -290,6 +291,9 @@ we can see that all the Layers are dependent only on the Core Layers
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core/blob/develop/LICENSE)
 
 See the contents of the LICENSE file for details
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fayslanjohnson%2FOnion-architecture-ASP.NET-Core.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fayslanjohnson%2FOnion-architecture-ASP.NET-Core?ref=badge_large)
 
 ## Contact
 
